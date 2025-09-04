@@ -1,0 +1,6 @@
+{
+  "name": "CRAFT Prompt Builder for Gemini",
+  "description": "A web application to design, test, and refine prompts for the Gemini API using the CRAFT (Context, Role, Action, Format, Target) framework. Interactively build prompts and see the Gemini response in real-time.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
